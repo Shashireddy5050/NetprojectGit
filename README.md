@@ -1,0 +1,2 @@
+# NetprojectGit
+Git Pratice
